@@ -1,4 +1,74 @@
-## Hi there 👋
+# ⏳ Working
+
+---
+
+## 👋 안녕하세요
+
+---
+
+### 💼 경력 및 주요 업무
+- **㈜코아시아씨엠코리아** (2020.12 ~ 2023.08)  
+  공정 로그 모니터링 시스템 구축  
+  카메라 모듈 테스트 프로그램 개발 및 유지보수
+- **㈜플레이위드게임즈** (2017.07 ~ 2019.02)  
+  컨텐츠 개발 / 프로그램 유지보수  
+  개발 툴 기능 추가 및 수정  
+  라이브 서비스 및 해외 런칭 경험
+
+### 🚀 주요 프로젝트
+- **Ctrl Sea Ctrl Vision - AI 선박 제어 보조 On-Device 시스템** (2025.09.26 ~ 2025.10.22)
+- **LCD 극한 활용 게임** (2025.08.01 ~ 2025.08.08)
+- **모바일 방역로봇** (2020.09.W3 ~ 2025.10.W4)
+- **3축 로봇과 비전의 3차원 교정 및 레이저 마킹** (2020.09.W3 ~ 2025.10.W4)
+- **히오스 & 디아블로3 모작** (2017.01.23 ~ 2017.03.23)
+- **울버린 모작** (2016.12.19 ~ 2017.01.13)
+- **Turbo Pug 3D 모작** (2016.10.10 ~ 2016.11.04)
+- **Zombie Tactics 모작** (2016.08.15 ~ 2016.09.07)
+- **리틀파이터2 모작** (2016.06.20 ~ 2016.07.04)
+
+### 🛠 기술 스택
+<p align="left">
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-00599C?style=flat&logo=sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MFC-000000?style=flat"/>
+  <img src="https://img.shields.io/badge/WPF-512BD4?style=flat"/>
+  <img src="https://img.shields.io/badge/PLC-000000?style=flat"/>
+  <img src="https://img.shields.io/badge/HMI-000000?style=flat"/>
+</p>
+<p align="left">
+  <!-- Embedded / System -->
+  <img src="https://img.shields.io/badge/Linux Embedded-000000?style=flat&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ELK-005571?style=flat&logo=elasticstack&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firmware-6C3483?style=flat&logo=serverfault&logoColor=white"/>
+  <img src="https://img.shields.io/badge/BSP-1F618D?style=flat"/>
+  <img src="https://img.shields.io/badge/ARM-0091BD?style=flat&logo=arm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Arduino-00878F?style=flat&logo=arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white"/>
+</p>
+<p align="left">
+  <!-- Frameworks -->
+  <img src="https://img.shields.io/badge/ROS-22314E?style=flat&logo=ros&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Qt-41CD52?style=flat&logo=qt&logoColor=white"/>
+
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft Office-D83B01?style=flat&logo=microsoftoffice&logoColor=white"/>
+
+  <!-- Database -->
+  <img src="https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white"/>
+
+  <!-- Computer Vision -->
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white"/>
+
+  <!-- AI Framework -->
+  <img src="https://img.shields.io/badge/OpenVINO-6938D4?style=flat&logo=openvino&logoColor=white"/>
+</p>
+
+---
 
 <!--
 **ansenfm1031/ansenfm1031** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +83,27 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+### 💼 경력 및 주요 업무
+- **㈜코아시아씨엠코리아** (2020.12 ~ 2023.08)  
+  공정 로그 모니터링 시스템 구축
+  <span>
+    <img src="https://img.shields.io/badge/ELK-005571?style=flat&logo=elasticstack&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Linux-000000?style=flat&logo=linux&logoColor=white"/>
+  </span>  
+  카메라 모듈 테스트 프로그램 개발 및 유지보수
+  <span>
+    <img src="https://img.shields.io/badge/C%23-00599C?style=flat&logo=sharp&logoColor=white"/>
+    <img src="https://img.shields.io/badge/WPF-512BD4?style=flat"/>
+  </span>  
+- **㈜플레이위드게임즈** (2017.07 ~ 2019.02)  
+  컨텐츠 개발 / 프로그램 유지보수
+  <span>
+    <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>
+  </span>  
+  개발 툴 기능 추가 및 수정
+  <span>
+    <img src="https://img.shields.io/badge/MFC-000000?style=flat"/>
+  </span>  
+  라이브 서비스 및 해외 런칭 경험
 -->
