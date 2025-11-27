@@ -21,10 +21,14 @@
 - **모바일 방역로봇** (2020.09.W3 ~ 2025.10.W4)
 - **3축 로봇과 비전의 3차원 교정 및 레이저 마킹** (2020.09.W3 ~ 2025.10.W4)<br><br>
 - **히오스 & 디아블로3 모작** (2017.01.23 ~ 2017.03.23)
-- **울버린** (2016.12.19 ~ 2017.01.13)
+- [**울버린**](https://github.com/ansenfm1031/project-Wolverine) (2016.12.19 ~ 2017.01.13)
+  - 3D 액션 게임 / 쉐이더 / 네비게이션 메쉬 / 미니맵 / 슬라이딩 벡터
 - [**Turbo Pug 3D 모작**](https://github.com/ansenfm1031/project-TurboPug3D) (2016.10.10 ~ 2016.11.04)
+  - 러닝 액션 게임 / MFC / 랭킹 및 고스트 플레이 시스템
 - [**Zombie Tactics 모작**](https://github.com/ansenfm1031/project-ZombieTactics) (2016.08.15 ~ 2016.09.07)
+  - 턴제 디펜스 게임 / 육각 타일 기반 A* 알고리즘
 - [**리틀파이터2 모작**](https://github.com/ansenfm1031/project-LittleFighter2) (2016.06.20 ~ 2016.07.04)
+  - 벨트스크롤 2D 액션 게임 / WinAPI / 비트 연산 / 싱글톤
 
 ### 🛠 기술 스택
 <p align="left">
