@@ -16,19 +16,79 @@
   라이브 서비스 및 해외 런칭 경험
 
 ### 🚀 주요 프로젝트
-- **Ctrl Sea Ctrl Vision - AI 선박 제어 보조 On-Device 시스템** (2025.09.26 ~ 2025.10.22)
-- **LCD 극한 활용 게임** (2025.08.01 ~ 2025.08.08)<br><br>
-- **모바일 방역로봇** (2020.09.W3 ~ 2025.10.W4)
-- **3축 로봇과 비전의 3차원 교정 및 레이저 마킹** (2020.09.W3 ~ 2025.10.W4)<br><br>
-- **히오스 & 디아블로3 모작** (2017.01.23 ~ 2017.03.23)
-- [**울버린**](https://github.com/ansenfm1031/project-Wolverine) (2016.12.19 ~ 2017.01.13)
-  - 3D 액션 게임 / 쉐이더 / 네비게이션 메쉬 / 미니맵 / 슬라이딩 벡터
-- [**Turbo Pug 3D 모작**](https://github.com/ansenfm1031/project-TurboPug3D) (2016.10.10 ~ 2016.11.04)
-  - 러닝 액션 게임 / MFC / 랭킹 및 고스트 플레이 시스템
-- [**Zombie Tactics 모작**](https://github.com/ansenfm1031/project-ZombieTactics) (2016.08.15 ~ 2016.09.07)
-  - 턴제 디펜스 게임 / 육각 타일 기반 A* 알고리즘
-- [**리틀파이터2 모작**](https://github.com/ansenfm1031/project-LittleFighter2) (2016.06.20 ~ 2016.07.04)
-  - 벨트스크롤 2D 액션 게임 / WinAPI / 비트 연산 / 싱글톤
+
+<table style="width: 100%; border-collapse: collapse;">
+  <tr>
+    <th>프로젝트 제목</th>
+    <th>핵심 키워드</th>
+    <th>인원 및 일정</th>
+  </tr>
+
+  <tr>
+    <td><strong>Ctrl Sea Ctrl Vision - AI 선박 제어 보조 On-Device 시스템</strong></td>
+    <td></td>
+    <td><sub>5인&nbsp;(25.09.26&nbsp;~&nbsp;25.10.22)　</sub></td>
+  </tr>
+
+  <tr>
+    <td><strong>LCD 극한 활용 게임</strong></td>
+    <td></td>
+    <td><sub>2인&nbsp;(25.08.01&nbsp;~&nbsp;25.08.08)</sub></td>
+  </tr>
+
+  <!-- 🔥 간격 추가용 빈 행 -->
+  <tr>
+    <td colspan="3" style="padding: 0; border-bottom: 2px solid #eee;"></td>
+  </tr>
+
+  <tr>
+    <td><strong>모바일 방역로봇</strong></td>
+    <td></td>
+    <td><sub>1인&nbsp;(20.09.W3&nbsp;~&nbsp;20.10.W4)</sub></td>
+  </tr>
+
+  <tr>
+    <td><strong>3축 로봇과 비전의 3차원 교정 및 레이저 마킹</strong></td>
+    <td></td>
+    <td><sub>1인&nbsp;(20.09.W3&nbsp;~&nbsp;20.10.W4)</sub></td>
+  </tr>
+
+  <!-- 🔥 간격 추가용 빈 행 -->
+  <tr>
+    <td colspan="3" style="padding: 0; border-bottom: 2px solid #eee;"></td>
+  </tr>
+
+  <tr>
+    <td><strong>히오스 & 디아블로3 모작</strong></td>
+    <td></td>
+    <td><sub>3인&nbsp;(17.01.23&nbsp;~&nbsp;17.03.23)</sub></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://github.com/ansenfm1031/project-Wolverine"><strong>울버린</strong></a></td>
+    <td>3D 액션 / 쉐이더 / 네비게이션 메쉬 / 미니맵 / 슬라이딩 벡터</td>
+    <td><sub>1인&nbsp;(16.12.19&nbsp;~&nbsp;17.01.13)</sub></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://github.com/ansenfm1031/project-TurboPug3D"><strong>Turbo Pug 3D 모작</strong></a></td>
+    <td>러닝 액션 / MFC / 랭킹 / 고스트 플레이 시스템</td>
+    <td><sub>4인&nbsp;(16.10.10&nbsp;~&nbsp;16.11.04)</sub></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://github.com/ansenfm1031/project-ZombieTactics"><strong>Zombie Tactics 모작</strong></a></td>
+    <td>턴제 디펜스 / 육각 타일 / A* 알고리즘</td>
+    <td><sub>1인&nbsp;(16.08.15&nbsp;~&nbsp;16.09.07)</sub></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://github.com/ansenfm1031/project-LittleFighter2"><strong>리틀파이터2 모작</strong></a></td>
+    <td>벨트스크롤 2D 액션 / WinAPI / 비트 연산 / 싱글톤</td>
+    <td><sub>1인&nbsp;(16.06.20&nbsp;~&nbsp;16.07.04)</sub></td>
+  </tr>
+</table>
+
 
 ### 🛠 기술 스택
 <p align="left">
