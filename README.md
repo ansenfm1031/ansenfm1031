@@ -21,7 +21,7 @@
 - **모바일 방역로봇** (2020.09.W3 ~ 2025.10.W4)
 - **3축 로봇과 비전의 3차원 교정 및 레이저 마킹** (2020.09.W3 ~ 2025.10.W4)<br><br>
 - **히오스 & 디아블로3 모작** (2017.01.23 ~ 2017.03.23)
-- **울버린 모작** (2016.12.19 ~ 2017.01.13)
+- **울버린** (2016.12.19 ~ 2017.01.13)
 - [**Turbo Pug 3D 모작**](https://github.com/ansenfm1031/project-TurboPug3D) (2016.10.10 ~ 2016.11.04)
 - [**Zombie Tactics 모작**](https://github.com/ansenfm1031/project-ZombieTactics) (2016.08.15 ~ 2016.09.07)
 - [**리틀파이터2 모작**](https://github.com/ansenfm1031/project-LittleFighter2) (2016.06.20 ~ 2016.07.04)
