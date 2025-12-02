@@ -27,7 +27,7 @@
   <tr>
     <td><strong>Ctrl Sea Ctrl Vision - AI 선박 제어 보조 On-Device 시스템</strong></td>
     <td></td>
-    <td><sub>5인&nbsp;(25.09.26&nbsp;~&nbsp;25.10.22)　</sub></td>
+    <td><sub>5인&nbsp;(25.09.26&nbsp;~&nbsp;25.10.22)　　</sub></td>
   </tr>
 
   <tr>
