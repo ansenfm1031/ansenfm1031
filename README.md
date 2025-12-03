@@ -25,7 +25,7 @@
   </tr>
 
   <tr>
-    <td><strong>Ctrl Sea Ctrl Vision - AI 선박 제어 보조 On-Device 시스템</strong></td>
+    <td><a href="https://github.com/ansenfm1031/project-CtrlSeaCtrlVision"><strong>Ctrl Sea Ctrl Vision - AI 선박 제어 보조 On-Device 시스템</strong></a></td>
     <td></td>
     <td><sub>5인&nbsp;(25.09.26&nbsp;~&nbsp;25.10.22)　　</sub></td>
   </tr>
@@ -60,7 +60,7 @@
 
   <tr>
     <td><a href="https://github.com/ansenfm1031/project-HoSnDiablo3"><strong>히오스 & 디아블로3 모작</strong></a></td>
-    <td>함수포인터배열을 이용한 FMS / 프로토타입 / 컴포넌트 / 충돌</td>
+    <td>함수포인터배열을 이용한 FSM / 프로토타입 / 컴포넌트 / 충돌</td>
     <td><sub>3인&nbsp;(17.01.23&nbsp;~&nbsp;17.03.23)</sub></td>
   </tr>
 
