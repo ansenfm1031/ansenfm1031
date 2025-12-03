@@ -59,7 +59,7 @@
   </tr>
 
   <tr>
-    <td><strong>히오스 & 디아블로3 모작</strong></td>
+    <td><a href="https://github.com/ansenfm1031/project-HoSnDiablo3"><strong>히오스 & 디아블로3 모작</strong></a></td>
     <td></td>
     <td><sub>3인&nbsp;(17.01.23&nbsp;~&nbsp;17.03.23)</sub></td>
   </tr>
