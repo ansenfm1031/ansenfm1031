@@ -60,7 +60,7 @@
 
   <tr>
     <td><a href="https://github.com/ansenfm1031/project-HoSnDiablo3"><strong>히오스 & 디아블로3 모작</strong></a></td>
-    <td></td>
+    <td>함수포인터배열을 이용한 FMS / 프로토타입 / 컴포넌트 / 충돌</td>
     <td><sub>3인&nbsp;(17.01.23&nbsp;~&nbsp;17.03.23)</sub></td>
   </tr>
 
