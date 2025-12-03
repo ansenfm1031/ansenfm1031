@@ -26,7 +26,7 @@
 
   <tr>
     <td><a href="https://github.com/ansenfm1031/project-CtrlSeaCtrlVision"><strong>Ctrl Sea Ctrl Vision - AI 선박 제어 보조 On-Device 시스템</strong></a></td>
-    <td></td>
+    <td>안개 제거 DCP / 이상 감지 EfficientNet-B3 / 낙상 감지 MoveNet Lightning / MQTT</td>
     <td><sub>5인&nbsp;(25.09.26&nbsp;~&nbsp;25.10.22)　　</sub></td>
   </tr>
 
