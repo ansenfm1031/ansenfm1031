@@ -1,8 +1,8 @@
-## 👋 안녕하세요, SW 엔지니어 문두르입니다.
+# 👋 안녕하세요, SW 엔지니어 문두르입니다.
 
 ---
 
-### 💼 경력 및 주요 업무
+## 💼 경력 및 주요 업무
 
 - **㈜코아시아씨엠코리아** (2020.12 ~ 2023.08)  
   공정 로그 모니터링 시스템 구축  
@@ -14,7 +14,7 @@
 
 ---
 
-### 🚀 주요 프로젝트
+## 🚀 주요 프로젝트
 
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
@@ -41,14 +41,14 @@
   </tr>
 
   <tr>
-    <td><strong>모바일 방역로봇</strong></td>
-    <td></td>
+    <td><a href="https://github.com/ansenfm1031/project-MobileUVRobot"><strong>모바일 방역로봇</strong></a></td>
+    <td>6축 로봇팔 제어 / SolidWorks 설계</td>
     <td><sub>1인&nbsp;(20.09.W3&nbsp;~&nbsp;20.10.W4)</sub></td>
   </tr>
 
   <tr>
-    <td><strong>3축 로봇과 비전의 3차원 교정 및 레이저 마킹</strong></td>
-    <td></td>
+    <td><a href="https://github.com/ansenfm1031/project-3AxisRobotnLaserTracing"><strong>3축 로봇과 비전의 3차원 교정 및 레이저 트레이싱</strong></a></td>
+    <td>카메라 캘리브레이션 / AB PLC / HMI</td>
     <td><sub>1인&nbsp;(20.09.W3&nbsp;~&nbsp;20.10.W4)</sub></td>
   </tr>
 
@@ -90,7 +90,7 @@
 
 ---
 
-### 🛠 기술 스택
+## 🛠 기술 스택
 
 <p align="left">
   <!-- Languages -->
@@ -136,7 +136,7 @@
 
 ---
 
-### 📫 연락처
+## 📫 연락처
 
 > 📧 **이메일:** ansenfm1031@naver.com  
 > ⚡ **메신저:** https://open.kakao.com/o/s2KtPo5h  
