@@ -1,12 +1,9 @@
-# ⏳ Working
-
----
-
 ## 👋 안녕하세요, SW 엔지니어 문두르입니다.
 
 ---
 
 ### 💼 경력 및 주요 업무
+
 - **㈜코아시아씨엠코리아** (2020.12 ~ 2023.08)  
   공정 로그 모니터링 시스템 구축  
   카메라 모듈 테스트 프로그램 개발 및 유지보수<br><br>
@@ -14,6 +11,8 @@
   컨텐츠 개발 / 프로그램 유지보수  
   개발 툴 기능 추가 및 수정  
   라이브 서비스 및 해외 런칭 경험
+
+---
 
 ### 🚀 주요 프로젝트
 
@@ -31,8 +30,8 @@
   </tr>
 
   <tr>
-    <td><strong>LCD 극한 활용 게임</strong></td>
-    <td></td>
+    <td><a href="https://github.com/ansenfm1031/project-LCDGame"><strong>LCD 극한 활용 게임</strong></a></td>
+    <td>LCD1602 / Joystick / UART</td>
     <td><sub>2인&nbsp;(25.08.01&nbsp;~&nbsp;25.08.08)</sub></td>
   </tr>
 
@@ -89,8 +88,10 @@
   </tr>
 </table>
 
+---
 
 ### 🛠 기술 스택
+
 <p align="left">
   <!-- Languages -->
   <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
@@ -103,7 +104,7 @@
 </p>
 <p align="left">
   <!-- Embedded / System -->
-  <img src="https://img.shields.io/badge/Linux Embedded-000000?style=flat&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/BSP-1F618D?style=flat"/>
   <img src="https://img.shields.io/badge/ELK-005571?style=flat&logo=elasticstack&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white"/>
@@ -111,8 +112,9 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Firmware-6C3483?style=flat&logo=serverfault&logoColor=white"/>
   <img src="https://img.shields.io/badge/STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FreeRTOS-00878F?style=flat"/>
+  <img src="https://img.shields.io/badge/Raspberry Pi-C51A4A?style=flat&logo=raspberrypi&logoColor=white"/>
   <img src="https://img.shields.io/badge/Arduino-00878F?style=flat&logo=arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FreeRTOS-00878F?style=flat"/>
 </p>
 <p align="left">
   <!-- Frameworks -->
@@ -133,6 +135,12 @@
 </p>
 
 ---
+
+### 📫 연락처
+
+> 📧 **이메일:** ansenfm1031@naver.com  
+> ⚡ **메신저:** https://open.kakao.com/o/s2KtPo5h  
+> <img height="128" src="https://github.com/user-attachments/assets/53b1e4f4-d3b2-4c3f-831d-16d8bd51844a" />
 
 <!--
 **ansenfm1031/ansenfm1031** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
