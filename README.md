@@ -24,6 +24,12 @@
   </tr>
 
   <tr>
+    <td><a href="https://github.com/ansenfm1031/project-WaffleFi"><strong>Waffle-Fi</strong></a></td>
+    <td>RL 기반 커버리지 탐색 / RSSI 측정 / Qt GUI / ROS2</td>
+    <td><sub>4인&nbsp;(25.12.15&nbsp;~&nbsp;26.01.05)　　</sub></td>
+  </tr>
+
+  <tr>
     <td><a href="https://github.com/ansenfm1031/project-CtrlSeaCtrlVision"><strong>Ctrl Sea Ctrl Vision - AI 선박 제어 보조 On-Device 시스템</strong></a></td>
     <td>안개 제거 DCP / 이상 감지 EfficientNet-B3 / 낙상 감지 MoveNet Lightning / MQTT</td>
     <td><sub>5인&nbsp;(25.09.26&nbsp;~&nbsp;25.10.22)　　</sub></td>
