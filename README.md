@@ -17,7 +17,7 @@
 
 ---
 
-## 🚀 주요 프로젝트
+## 🚀 개인 및 팀 프로젝트
 
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
